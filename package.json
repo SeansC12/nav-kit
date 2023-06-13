@@ -1,5 +1,5 @@
 {
-  "name": "turbo-nav",
+  "name": "nav-kit",
   "description": "This is the boilerplate for a react application with a prewritten, headless NavBar, coupled tightly with user authentication. It also comes with a login and signup form. All these components are headless and highly customisable.",
   "author": "Sean Chua",
   "keywords": [

@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-function LoginButton({ href, appendClassName, displayText }) {
+function RightAlignedButton({ href, appendClassName, displayText }) {
   return (
     <Link
       href={href}
@@ -12,4 +12,4 @@ function LoginButton({ href, appendClassName, displayText }) {
   )
 }
 
-export default LoginButton
+export default RightAlignedButton

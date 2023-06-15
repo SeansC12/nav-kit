@@ -1,8 +1,6 @@
-import NavBarWrapper from "./NavBar/NavBarWrapper";
-import Favicon from "./NavBar/Favicon";
-import RightAlignedButton from "./NavBar/RightAlignedButton";
-import UserIcon from "./NavBar/UserIcon";
-import SignInForm from "./SignInUpForm/SignInForm";
-import SignUpForm from "./SignInUpForm/SignUpForm";
+// export { default as bye } from "./NavBar";
+// export * from "./NavBar"
+// export * from "./NavBar/index.js";
+// export * from "./SignInUpForm/index.js";
 
-export { Favicon, RightAlignedButton, NavBarWrapper, UserIcon, SignInForm, SignUpForm };
+// export { default as bye } from "./NavBar"

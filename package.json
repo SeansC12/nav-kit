@@ -1,7 +1,12 @@
 {
   "name": "nav-kit",
   "description": "This is the boilerplate for a react application with a prewritten, headless NavBar, coupled tightly with user authentication. It also comes with a login and signup form. All these components are headless and highly customisable.",
-  "author": "Sean Chua",
+  "type": "module",
+  "author": {
+    "name": "Sean Chua",
+    "url": "https://github.com/SeansC12",
+    "author": true
+  },
   "keywords": [
     "react",
     "components",
@@ -11,17 +16,15 @@
     "authentication",
     "nextjs"
   ],
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "./dist/index.js",
   "files": [
-    "dist",
-    "README.md"
+    "dist"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SeansC12/nav-kit.git"
   },
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": false,
   "scripts": {
     "dev": "next dev",

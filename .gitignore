@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# swc compiled output
+/dist
+
 # production
 /build
 

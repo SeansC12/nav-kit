@@ -13,7 +13,7 @@
 /out/
 
 # swc compiled output
-/dist*
+/dist
 
 # production
 /build

@@ -9,7 +9,7 @@
 *A headless component library, focused on the quick prototyping of a NavBar, tightly coupled with Supabase's user authentication.*
 > Built for applications running on Next.js 13 and TailwindCSS
 
-## Documentation
+## [Documentation](/DOCS.md)
 
 ## Getting started
 

@@ -41,8 +41,8 @@ export default function RootLayout({ children }) {
 }
 ```
 Result:
-<img width="1440" alt="image" src="https://github.com/SeansC12/nav-kit/assets/88256324/8747f99b-9683-4cee-9fcf-b4bd53d62877">
 
+<img width="1440" alt="image" src="https://github.com/SeansC12/nav-kit/assets/88256324/8747f99b-9683-4cee-9fcf-b4bd53d62877">
 
 - `NavBarWrapper` component will handle the background and the overall wrapper for all the NavBar items
 - `Favicon` is a pre-built component, using Next.js's `<Image />` component, displaying the favicon of a website
@@ -73,6 +73,7 @@ function NavBar() {
 }
 ```
 I added an `input` component, for a search bar. The result:
+
 <img width="1440" alt="image" src="https://github.com/SeansC12/nav-kit/assets/88256324/d9d6556d-6ef7-4814-98be-cdb576457200">
 
 > This is true customisability. You can opt in to any component you want, no one's going to force you to have this certain component etc. Everything is opt-in, easily extensible. Remember, **`nav-kit`'s `NavBar` only handles positioning**.
